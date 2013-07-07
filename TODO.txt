@@ -1,0 +1,5 @@
+-Threading for parallel download
+-Database to store files status
+-Packaging
+-Cross plateform GUI
+-Notification and auto-download on new chapter
