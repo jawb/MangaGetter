@@ -1,0 +1,5 @@
+{
+	"plugins_dir": "plugins",
+	"download_dir": "./download/",
+	"default_plugin": "mangareader"
+}
